@@ -1,1 +1,1 @@
-# archery-game
+# project-C25-template
